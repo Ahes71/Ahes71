@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/ahmet-esat-uzuno%C4%9Flu/overlay/background-photo/)" />
+<img src="![Uploading Black Minimal Business Personal Profile Linkedin Banner.png…]()" />
 
 # 👋 Hi, I'm Ahmet Esat Uzunoğlu
 
