@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmet%20Esat%20Uzunoğlu&fontSize=35&fontColor=ffffff](https://www.linkedin.com/in/ahmet-esat-uzuno%C4%9Flu/overlay/background-photo/)" />
+<img src="https://www.linkedin.com/in/ahmet-esat-uzuno%C4%9Flu/overlay/background-photo/)" />
 
 # 👋 Hi, I'm Ahmet Esat Uzunoğlu
 
