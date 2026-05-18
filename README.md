@@ -1,4 +1,4 @@
-<img src="![Uploading Black Minimal Business Personal Profile Linkedin Banner.png…]()" />
+<img src="https://imgur.com/a/eVEdHyo" />
 
 # 👋 Hi, I'm Ahmet Esat Uzunoğlu
 
