@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/eVEdHyo" width="100%" />
+  <img src="banner.png" width="100%" />
 </p>
 # 👋 Hi, I'm Ahmet Esat Uzunoğlu
 
