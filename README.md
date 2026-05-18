@@ -1,28 +1,28 @@
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
+
 # 👋 Hi, I'm Ahmet Esat Uzunoğlu
 
 🎓 Computer Engineering Student  
-🤖 Passionate about Artificial Intelligence, Robotics & Software Development  
-🚀 Focused on building impactful and real-world tech solutions  
+🤖 Focused on Artificial Intelligence, Robotics & Intelligent Systems  
 
 ---
 
 ## 🧠 About Me
 
-I am a computer engineering student who is highly interested in artificial intelligence, robotics, and innovative technologies.
+I’m a computer engineering student passionate about building intelligent systems that solve real-world problems.
 
-I aim to build systems that combine **AI + Engineering + Real-world impact** and continuously improve my technical and problem-solving skills.
+My focus lies in combining **AI, engineering, and practical applications** to create meaningful and scalable solutions.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Working On
 
-- 🔭 Working on AI & software projects  
-- 🌱 Learning advanced Python & system design  
+- 🔭 Developing AI-based projects  
+- 🌱 Advancing in Python & system design  
 - 🤖 Exploring robotics and automation  
-- 📚 Improving problem-solving skills  
+- 📚 Strengthening problem-solving and algorithm skills  
 
 ---
 
@@ -43,11 +43,12 @@ I aim to build systems that combine **AI + Engineering + Real-world impact** and
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Projects
 
-- 🤖 AI Projects (Coming Soon)
-- 🧠 Smart Systems
-- 🚀 Automation Tools
+🚧 Currently building and improving projects in:
+- Artificial Intelligence  
+- Smart Systems  
+- Automation Tools  
 
 ---
 
@@ -67,8 +68,8 @@ I aim to build systems that combine **AI + Engineering + Real-world impact** and
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Mindset
 
-> “I don’t just write code, I build the future.”
+> Building technology that makes a real difference.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
