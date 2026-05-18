@@ -59,7 +59,7 @@ I aim to build systems that combine **AI + Engineering + Real-world impact** and
   <a href="https://github.com/Ahes71">
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ahmetesatuzunoglu">
+  <a href="https://www.linkedin.com/in/ahmet-esat-uzuno%C4%9Flu/">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
