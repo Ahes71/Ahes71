@@ -1,5 +1,6 @@
-<img src="https://imgur.com/a/eVEdHyo" />
-
+<p align="center">
+  <img src="https://imgur.com/a/eVEdHyo" width="100%" />
+</p>
 # 👋 Hi, I'm Ahmet Esat Uzunoğlu
 
 🎓 Computer Engineering Student  
