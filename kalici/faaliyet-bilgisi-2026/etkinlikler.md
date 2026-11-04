@@ -14,7 +14,7 @@ Aynı güne denk gelen faaliyetler ayrı satırlarda yazılmıştır. Siyasi unv
 | 7 Mart 2026 | Üniversite öğrenci başkanımız evinde çay | Üniversite öğrenci başkanımızın evinde çay programı yaptık. |
 | 12 Mart 2026 | Büyük kampüs iftarı | Zonguldak Bülent Ecevit Üniversitesi Farabi Kampüsü’nde büyük kampüs iftarı. |
 | 17 Mart 2026 | Kadir Gecesi sonrası ikramlık | Zonguldak Bülent Ecevit Üniversitesi Farabi Kampüsü Camii’nde Kadir Gecesi programı sonrası ikramlık; program ayrı bir topluluk tarafından yapıldı. |
-| 6 Mayıs 2026 | Kurumsal ziyaretler | Ankara’da TBMM’de ve Gençlik ve Enerji Tabii Kaynaklar Bakanlığı ile ilgili kurumlardan ziyaretler yapıldı. |
+| 6 Mayıs 2026 | Kurumsal ziyaretler | Türkiye Büyük Millet Meclisi’nde kıymetli vekillerimizi ziyaret. |
 | 17 Eylül 2026 | Üniversiteye hoş geldin standı | Zonguldak Bülent Ecevit Üniversitesi alt kapıda hoş geldin standı açıldı. |
 | 30 Eylül 2026 | Öğrenci buluşması | Üniversiteli kardeşlerle öğrenci evinde öğrenci buluşması. |
 | 1 Ekim 2026 | Alt kapı standı | Zonguldak Bülent Ecevit Üniversitesi alt kapıda hoş geldin standı. |
