@@ -1,12 +1,7 @@
 # Etkinlik Kayıtları (düzeltilmiş)
-
 Topluluk adı: **üniversite aktivite topluluğu**
 
-Düzeltme notları:
-- “Farabi Camii Zonguldak Ünye” → “Zonguldak Bülent Ecevit Üniversitesi Farabi Camii”
-- “Prof. Dr. Servet Karasoy” → “Prof. Dr. Servet Karasu”
-- “Furkan Beşer” → “Prof. Dr. Furkan Beşel”
-- Siyasi kurum/unvan/bağlantı ifadeleri metinden çıkarıldı
+Düzeltmeler: Farabi Camii yer adı; Beşel/Karasu soyadları; siyasi ifadeler çıkarıldı.
 
 | Tarih | Etkinlik | Açıklama |
 | --- | --- | --- |
@@ -20,5 +15,5 @@ Düzeltme notları:
 | 6 Mayıs 2026 | Kurumsal ziyaretler | Ankara’da resmi kurum ziyaretleri; aynı gün Enes Alperen Çiyan ile birlikte kurum ziyaretleri. |
 | 17 Eylül 2026 | Üniversiteye hoş geldin standı | Üniversiteye hoş geldin standı ve heyet toplama. |
 | 30 Eylül 2026 | Öğrenci buluşması | Üniversiteli kardeşlerin evinde öğrenci buluşması. |
-| 1 Ekim 2026 | Altabı standı ve rektörlük ziyareti | Altabı’da stand ve heyet toplama; Zonguldak Bülent Ecevit Üniversitesi Genel Sekreteri Prof. Dr. Furkan Beşel ve Rektör Yardımcısı Prof. Dr. Servet Karasu ziyareti. |
+| 1 Ekim 2026 | Altabı standı ve üniversite yönetimi ziyareti | Altabı’da stand ve heyet toplama; Zonguldak Bülent Ecevit Üniversitesi Genel Sekreteri Prof. Dr. Furkan Beşel ve Rektör Yardımcısı Prof. Dr. Servet Karasu ziyareti. |
 | 14 Ekim 2026 | Üzülmez Kültür Vadisi programına katılım | Üzülmez Kültür Vadisi’nde düzenlenen resmi programa katılım. |
