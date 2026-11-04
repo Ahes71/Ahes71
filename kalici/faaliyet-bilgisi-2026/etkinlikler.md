@@ -1,19 +1,22 @@
 # Etkinlik Kayıtları (düzeltilmiş)
+
 Topluluk adı: **üniversite aktivite topluluğu**
 
-Düzeltmeler: Farabi Camii yer adı; Beşel/Karasu soyadları; siyasi ifadeler çıkarıldı.
+Aynı güne denk gelen faaliyetler ayrı satırlarda yazılmıştır. Siyasi unvan/bağlantı ifadeleri kullanılmamıştır.
 
 | Tarih | Etkinlik | Açıklama |
 | --- | --- | --- |
 | 15 Ocak 2026 | Miraç Kandili süt ve ikramlık dağıtımı | Zonguldak Bülent Ecevit Üniversitesi Farabi Camii’nde Miraç Kandili vesilesiyle süt ve ikramlık dağıtımı; süt ikramı geleneğini yaşatma. |
 | 24 Şubat 2026 | İftara beş kala sahada ikram | İftara beş kala sahada, trafikte geçen arabalara iftarlık ve hediye dağıtımı. |
-| 25 Şubat 2026 | Katkılı iftar programı | Zonguldak Bülent Ecevit Üniversitesi Farabi Genç Ofis’te düzenlenen katkılı iftar programına katılım. |
-| 3 Mart 2026 | İftara beş kala sahada ikram ve Biyörencevi ziyareti | İftara beş kala sahada arabalara ikramlık dağıtımı; aynı gün Biyörencevi ziyareti. |
-| 7 Mart 2026 | Uluslararası öğrenci başkanı evinde çay | Sinan Metin ve Enes Alperen Çiyan ile uluslararası öğrenci başkanı evinde çay programı. |
-| 12 Mart 2026 | Büyük kampüs iftarı | Zonguldak Bülent Ecevit Üniversitesi Farabi Kampüsü kantinde büyük kampüs iftarı. |
-| 17 Mart 2026 | Kadir Gecesi Kur’an-ı Kerim programı | Zonguldak Bülent Ecevit Üniversitesi Farabi Camii’nde Kadir Gecesi Kur’an-ı Kerim programı; teravih sonrası ikramlık. |
-| 6 Mayıs 2026 | Kurumsal ziyaretler | Ankara’da resmi kurum ziyaretleri; aynı gün Enes Alperen Çiyan ile birlikte kurum ziyaretleri. |
+| 25 Şubat 2026 | İftar programına katılım | Zonguldak Bülent Ecevit Üniversitesi Farabi Genç Ofisi’nde düzenlenen iftar programına katıldık. |
+| 3 Mart 2026 | İftara beş kala sahada ikram | İftara beş kala sahada arabalara ikram dağıtımı. |
+| 3 Mart 2026 | Öğrenci evi ziyareti | Aynı gün bir öğrenci evi ziyareti. |
+| 7 Mart 2026 | Uluslararası öğrenci başkanımızın evinde çay | Uluslararası öğrenci başkanımızın evinde çay programı yaptık. |
+| 12 Mart 2026 | Büyük kampüs iftarı | Zonguldak Bülent Ecevit Üniversitesi Farabi Kampüsü’nde büyük kampüs iftarı. |
+| 17 Mart 2026 | Kadir Gecesi sonrası ikramlık | Kadir Gecesi sonrası ikramlık. |
+| 6 Mayıs 2026 | Kurumsal ziyaretler | Ankara’da resmi kurum ziyaretleri; aynı gün diğer ziyaretler. |
 | 17 Eylül 2026 | Üniversiteye hoş geldin standı | Üniversiteye hoş geldin standı ve heyet toplama. |
-| 30 Eylül 2026 | Öğrenci buluşması | Üniversiteli kardeşlerin evinde öğrenci buluşması. |
-| 1 Ekim 2026 | Altabı standı ve üniversite yönetimi ziyareti | Altabı’da stand ve heyet toplama; Zonguldak Bülent Ecevit Üniversitesi Genel Sekreteri Prof. Dr. Furkan Beşel ve Rektör Yardımcısı Prof. Dr. Servet Karasu ziyareti. |
-| 14 Ekim 2026 | Üzülmez Kültür Vadisi programına katılım | Üzülmez Kültür Vadisi’nde düzenlenen resmi programa katılım. |
+| 30 Eylül 2026 | Öğrenci buluşması | Üniversiteli kardeşlerle öğrenci buluşması. |
+| 1 Ekim 2026 | Alt kapı standı | Alt kapıda stand ve heyet toplama. |
+| 1 Ekim 2026 | Üniversite yönetimi ziyareti | Zonguldak Bülent Ecevit Üniversitesi Genel Sekreteri Furkan Beşel ve Rektör Yardımcısı Prof. Dr. Servet Karasu ziyareti. |
+| 14 Ekim 2026 | Üzülmez Kültür Vadisi programına katılım | Üzülmez Kültür Vadisi’nde Osman Aşkınbak’ın programına katılım. |
