@@ -2,7 +2,7 @@
 
 Topluluk adı: **üniversite aktivite topluluğu**
 
-Aynı güne denk gelen faaliyetler ayrı satırlarda yazılmıştır. Siyasi unvan/bağlantı ifadeleri kullanılmamıştır.
+Aynı güne denk gelen faaliyetler ayrı satırlarda yazılmıştır. Siyasi unvan ifadeleri kullanılmamıştır.
 
 | Tarih | Etkinlik | Açıklama |
 | --- | --- | --- |
@@ -13,10 +13,10 @@ Aynı güne denk gelen faaliyetler ayrı satırlarda yazılmıştır. Siyasi unv
 | 3 Mart 2026 | Öğrenci evi ziyareti | Aynı gün bir öğrenci evi ziyareti. |
 | 7 Mart 2026 | Üniversite öğrenci başkanımız evinde çay | Üniversite öğrenci başkanımızın evinde çay programı yaptık. |
 | 12 Mart 2026 | Büyük kampüs iftarı | Zonguldak Bülent Ecevit Üniversitesi Farabi Kampüsü’nde büyük kampüs iftarı. |
-| 17 Mart 2026 | Kadir Gecesi sonrası ikramlık | Kadir Gecesi sonrası ikramlık. |
-| 6 Mayıs 2026 | Kurumsal ziyaretler | Ankara’da resmi kurum ziyaretleri; aynı gün diğer ziyaretler. |
-| 17 Eylül 2026 | Üniversiteye hoş geldin standı | Üniversiteye hoş geldin standı ve heyet toplama. |
-| 30 Eylül 2026 | Öğrenci buluşması | Üniversiteli kardeşlerle öğrenci buluşması. |
-| 1 Ekim 2026 | Alt kapı standı | Alt kapıda stand ve heyet toplama. |
+| 17 Mart 2026 | Kadir Gecesi sonrası ikramlık | Zonguldak Bülent Ecevit Üniversitesi Farabi Kampüsü Camii’nde Kadir Gecesi programı sonrası ikramlık; program ayrı bir topluluk tarafından yapıldı. |
+| 6 Mayıs 2026 | Kurumsal ziyaretler | Ankara’da ziyaret edilen yerler: Gençlik ve Enerji Tabii Kaynaklar ile ilgili kurum ve TBMM. Ziyaret edilen kişiler hatırlanmıyor. |
+| 17 Eylül 2026 | Üniversiteye hoş geldin standı | Zonguldak Bülent Ecevit Üniversitesi alt kapıda hoş geldin standı açıldı. |
+| 30 Eylül 2026 | Öğrenci buluşması | Üniversiteli kardeşlerle öğrenci evinde öğrenci buluşması. |
+| 1 Ekim 2026 | Alt kapı standı | Zonguldak Bülent Ecevit Üniversitesi alt kapıda hoş geldin standı. |
 | 1 Ekim 2026 | Üniversite yönetimi ziyareti | Zonguldak Bülent Ecevit Üniversitesi Genel Sekreteri Furkan Beşel ve Rektör Yardımcısı Prof. Dr. Servet Karasu ziyareti. |
-| 14 Ekim 2026 | Üzülmez Kültür Vadisi programına katılım | Üzülmez Kültür Vadisi’nde Osman Aşkınbak’ın programına katılım. |
+| 14 Ekim 2026 | Üzülmez Kültür Vadisi programına katılım | Üzülmez Kültür Vadisi’nde Osman Aşkın Bak’ın programına katılım. |
