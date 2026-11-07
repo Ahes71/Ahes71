@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AKYMUN'26 Zonguldak — Başvuru</title>
+  <meta name="description" content="AKYMUN'26 — AK Youth Model United Nations Zonguldak. 28–29 Kasım 2026, ücretsiz Model Birleşmiş Milletler konferansı başvuru sitesi." />
+  <meta name="theme-color" content="#050c16" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="tr_TR" />
+  <meta property="og:url" content="https://akymun.onrender.com/" />
+  <meta property="og:title" content="AKYMUN'26 Zonguldak — Başvuru" />
+  <meta property="og:description" content="28–29 Kasım 2026 · Zonguldak İl Genel Meclisi · Ücretsiz katılım. AK Youth Model United Nations başvuru formu." />
+  <meta property="og:image" content="https://akymun.onrender.com/assets/poster-akymun.jpeg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="AKYMUN'26 Zonguldak — Başvuru" />
+  <meta name="twitter:description" content="28–29 Kasım 2026 · Zonguldak · Ücretsiz Model BM konferansı başvurusu." />
+  <meta name="twitter:image" content="https://akymun.onrender.com/assets/poster-akymun.jpeg" />
+  <link rel="icon" href="assets/logo-profile.jpeg" type="image/jpeg" />
+  <link rel="apple-touch-icon" href="assets/logo-profile.jpeg" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#basvuru">Başvuru formuna geç</a>
+  <!-- ========== ZİYARETÇİ: sadece başvuru ========== -->
+  <div id="public-app">
+    <header class="topbar">
+      <div class="brand">
+        <div data-logo="nav"></div>
+        <div class="brand-text">
+          <strong>AKYMUN'26</strong>
+          <span>Zonguldak</span>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <div class="topbar-date">
+          <b>28–29 Kasım 2026</b>
+        </div>
+        <details class="access-menu">
+          <summary class="access-menu-btn" aria-label="Giriş menüsü">Giriş</summary>
+          <div class="access-menu-panel" role="menu">
+            <a href="#/katilimci" role="menuitem">Katılımcı girişi</a>
+            <a href="#/yonetim" role="menuitem">Organizasyon paneli</a>
+          </div>
+        </details>
+      </div>
+    </header>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-logo" data-logo="hero"></div>
+        <h1>AKYMUN'26</h1>
+        <p class="tagline">AK Youth Model United Nations · Zonguldak</p>
+        <div class="gold-rule"></div>
+        <p class="lead">
+          Zonguldak’tan dünyaya: gençlik, diplomasi ve ortak çözümler için
+          Model Birleşmiş Milletler deneyimi.
+        </p>
+        <div class="hero-pills">
+          <span class="pill"><strong>28–29</strong> Kasım 2026</span>
+          <span class="pill"><strong>Zonguldak</strong> İl Genel Meclisi</span>
+          <span class="pill"><strong>Ücretsiz</strong> katılım</span>
+        </div>
+        <p class="hero-motto">Diplomacy · Youth · Solutions</p>
+        <div class="cta-group">
+          <div class="cta-row cta-row-top">
+            <a class="btn btn-ghost" href="#/konferans" id="btn-media-scroll">Konferans</a>
+            <a class="btn btn-ghost" href="#/komisyon" id="btn-org-scroll">Komisyon</a>
+          </div>
+          <div class="cta-row cta-row-bottom">
+            <button type="button" class="btn btn-primary" id="btn-basvuru-scroll">Başvuruya geç</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <main>
+      <aside class="info-card">
+        <h2>Konferans bilgileri</h2>
+        <ul>
+          <li>Simülasyon 28 Kasım 2026 Cumartesi – 29 Kasım 2026 Pazar tarihlerinde gerçekleştirilecek ve 2 gün sürecektir.</li>
+          <li>Herhangi bir katılım ücreti talep edilmemektedir.</li>
+          <li>Program Zonguldak İl Genel Meclisi binasında gerçekleştirilecek, Zonguldak içi ulaşım tarafımızca ücretsiz olarak sağlanacaktır.</li>
+          <li>Konferans boyunca katılımcılara yiyecek, kahve, çay ve çeşitli ikramlıklar ücretsiz olarak sağlanacaktır.</li>
+          <li>Konferans süresince katılımcıların sosyal etkileşimini ve deneyimini zenginleştirecek çeşitli sosyal, kültürel ve interaktif etkinliklere de yer verilecektir.</li>
+          <li>Katılımcılar en az A2–B1 düzey İngilizce bilgisine ve en az B2 düzey Türkçe bilgisine sahip olmalıdır.</li>
+          <li>Detaylı bilgilendirmeler başvuruda bulunan adaylara mail üzerinden PDF olarak atılacaktır.</li>
+          <li>Organizasyon 16–35 yaş arası diplomasiye ilgili herkese açıktır.</li>
+        </ul>
+      </aside>
+
+      <section class="form-card" id="basvuru">
+        <header>
+          <h2>Başvuru Formu</h2>
+          <p>Instagram @akyouthmunzonguldak resmi başvuru sorularıyla birebir uyumludur. Zorunlu alanlar * ile işaretlidir.</p>
+        </header>
+
+        <div id="already-applied" class="already-box hidden" role="status">
+          <div class="check" aria-hidden="true">✓</div>
+          <h3>Başvurunuz zaten alınmıştır</h3>
+          <p>Durum: <strong id="already-status">Bekliyor</strong></p>
+          <p id="already-extra" class="hint" style="margin-top:0.5rem"></p>
+        </div>
+
+        <form id="basvuru-form" novalidate>
+          <div class="field">
+            <label class="q" for="adSoyad">AD-SOYAD <span class="req">*</span></label>
+            <input id="adSoyad" name="adSoyad" type="text" required autocomplete="name" />
+          </div>
+
+          <div class="field">
+            <label class="q" for="dogumTarihi">DOĞUM TARİHİ <span class="req">*</span></label>
+            <input id="dogumTarihi" name="dogumTarihi" type="date" required />
+          </div>
+
+          <div class="field">
+            <label class="q" for="email">E-MAİL <span class="req">*</span></label>
+            <input id="email" name="email" type="email" required autocomplete="email" />
+          </div>
+
+          <div class="field">
+            <label class="q" for="telefon">TELEFON NUMARASI <span class="req">*</span></label>
+            <input id="telefon" name="telefon" type="tel" required autocomplete="tel" placeholder="05xx xxx xx xx" />
+          </div>
+
+          <div class="field">
+            <span class="q">İNGİLİZCE SEVİYESİ <span class="req">*</span></span>
+            <div class="choices">
+              <label class="choice"><input type="radio" name="ingilizce" value="A2 / Elementary (Temel Düzey)" required /><span>A2 / Elementary (Temel Düzey)</span></label>
+              <label class="choice"><input type="radio" name="ingilizce" value="B1 / Intermediate (Orta Düzey)" /><span>B1 / Intermediate (Orta Düzey)</span></label>
+              <label class="choice"><input type="radio" name="ingilizce" value="B2 / Upper-Intermediate (Orta-üstü Düzey)" /><span>B2 / Upper-Intermediate (Orta-üstü Düzey)</span></label>
+              <label class="choice"><input type="radio" name="ingilizce" value="C1 / Advanced (İleri Düzey)" /><span>C1 / Advanced (İleri Düzey)</span></label>
+              <label class="choice"><input type="radio" name="ingilizce" value="C2 / Native-like (Anadil Düzeyi)" /><span>C2 / Native-like (Anadil Düzeyi)</span></label>
+            </div>
+          </div>
+
+          <div class="field">
+            <span class="q">TÜRKÇE SEVİYESİ <span class="req">*</span></span>
+            <div class="choices">
+              <label class="choice"><input type="radio" name="turkce" value="B1 / Intermediate (Orta Düzey)" required /><span>B1 / Intermediate (Orta Düzey)</span></label>
+              <label class="choice"><input type="radio" name="turkce" value="B2 / Upper-Intermediate (Orta-üstü Düzey)" /><span>B2 / Upper-Intermediate (Orta-üstü Düzey)</span></label>
+              <label class="choice"><input type="radio" name="turkce" value="C1 / Advanced (İleri Düzey)" /><span>C1 / Advanced (İleri Düzey)</span></label>
+              <label class="choice"><input type="radio" name="turkce" value="Anadil" /><span>Anadil</span></label>
+            </div>
+          </div>
+
+          <div class="field">
+            <span class="q">EĞİTİM BİLGİLERİ <span class="req">*</span></span>
+            <div class="choices">
+              <label class="choice"><input type="radio" name="egitim" value="LİSE ÖĞRENCİ" required /><span>LİSE ÖĞRENCİ</span></label>
+              <label class="choice"><input type="radio" name="egitim" value="LİSE MEZUN" /><span>LİSE MEZUN</span></label>
+              <label class="choice"><input type="radio" name="egitim" value="ÖNLİSANS ÖĞRENCİ" /><span>ÖNLİSANS ÖĞRENCİ</span></label>
+              <label class="choice"><input type="radio" name="egitim" value="ÖNLİSANS MEZUN" /><span>ÖNLİSANS MEZUN</span></label>
+              <label class="choice"><input type="radio" name="egitim" value="LİSANS ÖĞRENCİ" /><span>LİSANS ÖĞRENCİ</span></label>
+              <label class="choice"><input type="radio" name="egitim" value="LİSANS MEZUN" /><span>LİSANS MEZUN</span></label>
+              <label class="choice"><input type="radio" name="egitim" value="YÜKSEK LİSANS ÖĞRENCİ" /><span>YÜKSEK LİSANS ÖĞRENCİ</span></label>
+              <label class="choice"><input type="radio" name="egitim" value="YÜKSEK LİSANS MEZUN" /><span>YÜKSEK LİSANS MEZUN</span></label>
+            </div>
+          </div>
+
+          <div class="field">
+            <label class="q" for="bolum">OKUYOR YA DA MEZUN OLDUĞUNUZ BÖLÜM (ÜNİVERSİTE-FAKÜLTE-BÖLÜM) <span class="req">*</span></label>
+            <input id="bolum" name="bolum" type="text" required placeholder="Örn. X Üniversitesi – Y Fakültesi – Z Bölümü" />
+          </div>
+
+          <div class="field">
+            <span class="q">DAHA ÖNCE MUN DENEYİMİNİZ OLDU MU ? <span class="req">*</span></span>
+            <div class="choices">
+              <label class="choice"><input type="radio" name="munDeneyimi" value="EVET" required /><span>EVET</span></label>
+              <label class="choice"><input type="radio" name="munDeneyimi" value="HAYIR" /><span>HAYIR</span></label>
+            </div>
+          </div>
+
+          <div class="field">
+            <label class="q" for="basariSertifika">HERHANGİ BİR ALANDA/SPOR BRANŞINDA/ETKİNLİK VE ORGANİZASYONDA BAŞARI VEYA SERTİFİKANIZ VAR MI ? <span class="req">*</span></label>
+            <textarea id="basariSertifika" name="basariSertifika" required placeholder="Varsa kısaca yazınız; yoksa «Yok» yazabilirsiniz."></textarea>
+          </div>
+
+          <div class="field">
+            <span class="q">SEÇİLİRSENİZ PROGRAM BOYUNCA MUN YÖNETİCİ KADROSUNUN DİREKTİFLERİNE UYACAĞINIZI TAAHHÜD EDİYOR MUSUNUZ ? <span class="req">*</span></span>
+            <div class="choices">
+              <label class="choice"><input type="radio" name="taahhut" value="EVET" required /><span>EVET</span></label>
+              <label class="choice"><input type="radio" name="taahhut" value="HAYIR" /><span>HAYIR</span></label>
+            </div>
+          </div>
+
+          <div class="field">
+            <label class="q" for="saglik">HERHANGİ BİR TEKERRÜR EDEN SAĞLIK PROBLEMİNİZ/HASSASİYETİNİZ VEYA ALERJİNİZ VAR MI ? VARSA NEDİR? <span class="req">*</span></label>
+            <textarea id="saglik" name="saglik" required placeholder="Varsa belirtiniz; yoksa «Yok» yazabilirsiniz."></textarea>
+          </div>
+
+          <div class="field">
+            <label class="q" for="vatandaslik">HANGİ ÜLKE VATANDAŞISINIZ ? <span class="req">*</span></label>
+            <input id="vatandaslik" name="vatandaslik" type="text" required placeholder="Örn. Türkiye" />
+          </div>
+
+          <div class="field">
+            <span class="q">KVKK BİLGİLENDİRME SORUSU <span class="req">*</span></span>
+            <div class="legal-box">
+              6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında, başvuru formunda paylaştığım ad-soyad, telefon numarası, e-posta adresi ve diğer kişisel verilerimin AKYMUN’26 konferansına ilişkin başvuru değerlendirme, katılımcı iletişimi, organizasyon ve bilgilendirme süreçlerinde işlenmesine ilişkin KVKK Aydınlatma Metni'ni okudum ve anladım.
+            </div>
+            <label class="choice">
+              <input type="checkbox" name="kvkk" required />
+              <span>KVKK Aydınlatma Metni'ni okudum ve anladım.</span>
+            </label>
+          </div>
+
+          <div class="field">
+            <span class="q">AKYMUN’26 – Fotoğraf ve Video Kullanımına İlişkin Açık Rıza <span class="req">*</span></span>
+            <div class="legal-box">
+              AKYMUN’26 konferansı süresince çekilen ve beni içeren fotoğraf ve video kayıtlarının; konferansın tanıtılması, faaliyetlerin duyurulması ve organizasyonun belgelenmesi amacıyla AKYMUN’26'nın resmî sosyal medya hesaplarında ve organizasyona ait dijital iletişim kanallarında yayımlanmasına özgür irademle izin veriyorum.
+              <br /><br />
+              Bu iznin isteğe bağlı olduğunu, izin vermememin konferansa katılımımı etkilemeyeceğini ve açık rızamı daha sonra geri alabileceğimi biliyorum.
+              <br /><br />
+              Lütfen bir seçenek işaretleyiniz:
+            </div>
+            <div class="choices">
+              <label class="choice"><input type="radio" name="fotoVideoRiza" value="Açık rıza veriyorum." required /><span>Açık rıza veriyorum.</span></label>
+              <label class="choice"><input type="radio" name="fotoVideoRiza" value="Açık rıza vermiyorum." /><span>Açık rıza vermiyorum.</span></label>
+            </div>
+          </div>
+
+          <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Başvuruyu gönder</button>
+          </div>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <img class="footer-logo" src="assets/logo-profile.jpeg" alt="AKYMUN'26 logo" width="44" height="44" />
+      <div>AKYMUN'26 · AK Youth Model United Nations Zonguldak</div>
+      <div>
+        <a href="https://www.instagram.com/akyouthmunzonguldak/" target="_blank" rel="noopener noreferrer">@akyouthmunzonguldak</a>
+        ·
+        <a href="https://www.instagram.com/akgenczonguldak/" target="_blank" rel="noopener noreferrer">@akgenczonguldak</a>
+      </div>
+      <div class="footer-links">
+        <a class="org-link" href="#/konferans">Konferans</a>
+        <a class="org-link" href="assets/AKYMUN.pdf" target="_blank" rel="noopener noreferrer">Kitapçık</a>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Konferans sayfası (ayrı görünüm) -->
+  <div id="conference-app" class="hidden">
+    <header class="topbar">
+      <div class="brand">
+        <div data-logo="nav"></div>
+        <div class="brand-text">
+          <strong>AKYMUN'26</strong>
+          <span>Konferans</span>
+        </div>
+      </div>
+      <a class="btn btn-ghost btn-sm" href="#/">← Ana sayfa</a>
+    </header>
+    <section class="about-section conference-page" id="tanitim" aria-labelledby="about-title">
+      <div class="about-wrap">
+        <div class="about-copy">
+          <p class="eyebrow">AK Youth Model United Nations</p>
+          <h2 id="about-title">Konferansa bakış</h2>
+          <p class="about-lead">
+            Daha güçlü bir gençlik, daha adil ve sürdürülebilir bir dünya için
+            farklı bakış açıları Zonguldak’ta buluşuyor.
+          </p>
+          <ul class="about-points">
+            <li>İki günlük BM simülasyonu · 28–29 Kasım 2026</li>
+            <li>Zonguldak İl Genel Meclisi · yerel ulaşım ücretsiz</li>
+            <li>16–35 yaş · katılım ücreti yok</li>
+          </ul>
+          <div class="values-row" aria-label="Temel değerler">
+            <span>Barış</span>
+            <span>Sürdürülebilirlik</span>
+            <span>Gençlik</span>
+            <span>Diyalog</span>
+            <span>Ortak gelecek</span>
+          </div>
+          <div class="about-actions">
+            <a class="btn btn-primary btn-sm" href="assets/AKYMUN.pdf" target="_blank" rel="noopener noreferrer">Tanıtım kitapçığı</a>
+            <a class="btn btn-ghost btn-sm" href="assets/AKYMUN.pdf" download="AKYMUN.pdf">PDF indir</a>
+          </div>
+        </div>
+        <figure class="about-visual">
+          <img src="assets/poster-akymun.jpeg" alt="AKYMUN'26 resmi tanıtım afişi" width="680" height="680" loading="lazy" decoding="async" />
+          <figcaption>Zonguldak Gençlik Kolları · AKYMUN’26</figcaption>
+        </figure>
+      </div>
+    </section>
+  </div>
+
+  <!-- Komisyon sayfası (ağaç şeması) -->
+  <div id="commission-app" class="hidden">
+    <header class="topbar">
+      <div class="brand">
+        <div data-logo="nav"></div>
+        <div class="brand-text">
+          <strong>AKYMUN'26</strong>
+          <span>Komisyon</span>
+        </div>
+      </div>
+      <a class="btn btn-ghost btn-sm" href="#/">← Ana sayfa</a>
+    </header>
+    <section class="org-section commission-page" id="komisyonlar" aria-labelledby="org-title">
+      <div class="org-wrap">
+        <header class="org-header">
+          <h2 id="org-title">Komisyon yapısı</h2>
+          <p>Konferans organları ve aralarındaki ilişki.</p>
+        </header>
+
+        <ul class="org-tree" aria-label="AKYMUN komisyon organizasyon şeması">
+          <li>
+            <div class="tree-node tree-root">
+              <strong>AKYMUN’26</strong>
+              <span>Konferans yönetimi</span>
+            </div>
+            <ul>
+              <li>
+                <div class="tree-node">
+                  <strong>UNEP</strong>
+                  <span>United Nations Environment Programme — çevre ve sürdürülebilirlik.</span>
+                </div>
+              </li>
+              <li>
+                <div class="tree-node">
+                  <strong>UNESCO</strong>
+                  <span>United Nations Educational, Scientific and Cultural Organization — eğitim, bilim ve kültür.</span>
+                </div>
+              </li>
+              <li>
+                <div class="tree-node">
+                  <strong>WHO</strong>
+                  <span>World Health Organization — küresel sağlık politikaları.</span>
+                </div>
+              </li>
+              <li>
+                <div class="tree-node">
+                  <strong>ECOSOC</strong>
+                  <span>Economic and Social Council — ekonomik ve sosyal kalkınma.</span>
+                </div>
+              </li>
+              <li>
+                <div class="tree-node">
+                  <strong>UN-Habitat</strong>
+                  <span>United Nations Human Settlements Programme — sürdürülebilir yerleşimler.</span>
+                </div>
+              </li>
+              <li>
+                <div class="tree-node">
+                  <strong>UN WOMEN</strong>
+                  <span>United Nations Entity for Gender Equality — toplumsal cinsiyet eşitliği.</span>
+                </div>
+              </li>
+              <li>
+                <div class="tree-node">
+                  <strong>UNSC</strong>
+                  <span>United Nations Security Council — uluslararası barış ve güvenlik.</span>
+                </div>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <!-- Katılımcı portalı -->
+  <div id="participant-app" class="hidden">
+    <div id="participant-content"></div>
+  </div>
+
+  <!-- Başarı onayı -->
+  <div id="success-overlay" class="overlay hidden" role="dialog" aria-modal="true" aria-labelledby="success-title">
+    <div class="modal">
+      <div class="check" aria-hidden="true">✓</div>
+      <h3 id="success-title">Başvurunuz alınmıştır</h3>
+      <p>Teşekkür ederiz. Detaylı bilgilendirmeler e-posta adresinize PDF olarak iletilecektir.</p>
+      <button type="button" class="btn btn-primary" id="btn-success-ok">Tamam</button>
+    </div>
+  </div>
+
+  <!-- ========== YETKİLİ PANELİ (ziyaretçiye görünmez) ========== -->
+  <div id="admin-app" class="hidden">
+    <div id="admin-login-view" class="admin-login">
+      <div class="login-card">
+        <div style="text-align:center;margin-bottom:0.75rem" data-logo="nav"></div>
+        <h1>Yetkili Girişi</h1>
+        <p class="sub">Başvuruları yalnızca yetkililer görüntüleyebilir.</p>
+        <p id="login-error" class="login-error hidden"></p>
+        <form id="admin-login-form">
+          <div class="field">
+            <label class="q" for="admin-user">Kullanıcı adı</label>
+            <input id="admin-user" name="username" required autocomplete="username" />
+          </div>
+          <div class="field">
+            <label class="q" for="admin-pass">Şifre</label>
+            <input id="admin-pass" name="password" type="password" required autocomplete="current-password" />
+          </div>
+          <button type="submit" class="btn btn-primary" style="width:100%">Giriş yap</button>
+        </form>
+        <p style="text-align:center;margin:1rem 0 0">
+          <a href="#/">← Başvuru formuna dön</a>
+        </p>
+      </div>
+    </div>
+
+    <div id="admin-shell-view" class="admin-shell hidden">
+      <aside class="admin-nav">
+        <div class="brand">
+          <div data-logo="nav"></div>
+          <div class="brand-text">
+            <strong>AKYMUN'26</strong>
+            <span>Panel</span>
+          </div>
+        </div>
+        <button type="button" class="nav-btn active" data-page="basvurular">Başvurular</button>
+        <button type="button" class="nav-btn" data-page="kabul">Kabul edilenler</button>
+        <button type="button" class="nav-btn" data-page="etkinlik">Etkinlik</button>
+        <button type="button" class="nav-btn" data-page="yetkililer">Yetkililer</button>
+        <button type="button" class="nav-btn" data-page="ayarlar">Ayarlar</button>
+        <div class="nav-spacer"></div>
+        <button type="button" class="nav-btn" id="btn-admin-logout">Çıkış</button>
+      </aside>
+      <section class="admin-main" id="admin-content"></section>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.49.8/dist/umd/supabase.min.js"></script>
+  <script src="config.js"></script>
+  <script src="supabase-api.js"></script>
+  <script src="conference-ui.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
