@@ -181,8 +181,7 @@ a.org-link:focus-visible,
   margin: 0.35rem 0 0;
   font-size: 0.78rem;
   letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--muted);
+    color: var(--muted);
   animation: rise 0.9s 0.34s ease both;
 }
 
@@ -340,8 +339,7 @@ a.org-link:focus-visible,
   margin: 0 0 1rem;
   font-size: 0.78rem;
   letter-spacing: 0.28em;
-  text-transform: uppercase;
-  color: var(--gold-500);
+    color: var(--gold-500);
   animation: rise 0.9s 0.14s ease both;
 }
 
@@ -638,8 +636,7 @@ a.org-link:focus-visible,
   margin: 0 0 0.45rem;
   font-size: 0.72rem;
   letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--gold-500);
+    color: var(--gold-500);
 }
 
 .about-copy h2 {
