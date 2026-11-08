@@ -915,7 +915,7 @@ function renderSettingsPanel() {
     <div class="panel" style="padding:1.25rem">
       <p style="margin:0 0 0.75rem;color:var(--cream-dim)">Veriler Supabase (ücretsiz plan) üzerinde saklanır; tüm yetkililer aynı başvuruları görür.</p>
       <ul style="color:var(--muted);font-size:0.9rem">
-        <li>Süper yetkili girişi: kullanıcı adı <b>admin</b> (şifreyi aşağıdan değiştirin).</li>
+        <li>Süper yetkili girişi: kullanıcı adı <b>Ahes71</b> (şifreyi aşağıdan değiştirin).</li>
         <li>Başvurular varsayılan <b>bekliyor</b>; istediğiniz an kabul/red verebilirsiniz.</li>
         <li>Kabul edilenlere ülke, komisyon ve rol atanınca etkinlik alanına erişirler.</li>
       </ul>
